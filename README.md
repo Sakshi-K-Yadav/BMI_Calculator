@@ -6,22 +6,22 @@ The BMI Calculator app is a health and fitness tool developed for Android using 
 
 ## Features
 
-- BMI Calculation**: Allows users to input their height and weight to calculate their BMI.
-- Health Recommendations**: Displays recommendations based on the user's BMI category (underweight, normal, overweight, etc.).
-- Chart Display**: Visual representation of the user's BMI level, indicating whether it falls within the healthy range.
-- User-friendly Interface**: Clean and simple user interface for easy interaction.
+- BMI Calculation: Allows users to input their height and weight to calculate their BMI.
+- Health Recommendations: Displays recommendations based on the user's BMI category (underweight, normal, overweight, etc.).
+- Chart Display: Visual representation of the user's BMI level, indicating whether it falls within the healthy range.
+- User-friendly Interface: Clean and simple user interface for easy interaction.
 
 ## Technologies Used
 
-- Programming Language**: Java
-- Development Environment**: Android Studio (Ladybug Version)
-- UI Framework**: Android SDK
-- Libraries**: (List any libraries or dependencies used, if applicable)
+- Programming Language: Java
+- Development Environment: Android Studio (Ladybug Version)
+- UI Framework: Android SDK
+
   
 ## Installation Instructions
 
 1. Clone the repository or download the project files to your local machine.
-2. Open Android Studio and select **Open an existing project**.
+2. Open Android Studio and select --Open an existing project.
 3. Browse to the folder containing the downloaded project and open it.
 4. Build and run the app on an Android emulator or a physical device.
 
